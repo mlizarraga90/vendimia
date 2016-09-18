@@ -12,6 +12,5 @@
 */
 
 Route::get('/vendimia', function () {
-    return view('welcome');
+    return view('ventas');
 });
-/*Prueba de cambios*/
